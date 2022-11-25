@@ -29,13 +29,13 @@
  *+--------------------------------------------------------------------------------------+ */
  
  // Insert here the wifi network credentials
-const char *ssid                              = "CasaDoTheodoro1";                       // name of your WiFi network
-const char *password                          = "09012011";                              // password of the WiFi network
+const char *ssid                              = "xxxxxxxxxxxxxxx";                       // name of your WiFi network
+const char *password                          = "xxxxxxxx";                              // password of the WiFi network
 
 const char *ID                                = "ThisIsMyDeviceID";                      // Name of our device, must be unique
 const char* BROKER_MQTT                       = "mqtt.tago.io";                          // MQTT Cloud Broker URL
 unsigned int PORT                             = 8883;
-const char *TOKEN                             ="3c96d6ec-0c6e-4af2-8950-ef09502bd7de";
+const char *TOKEN                             ="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 const char *USER                              = "MQTTTuser";
 
