@@ -1,3 +1,0 @@
----
-generateHeadingToc: true
----
